@@ -1,0 +1,5 @@
+uvicorn
+fastapi
+requests-oauthlib
+python-multipart
+python-dotenv
